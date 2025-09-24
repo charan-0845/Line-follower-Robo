@@ -31,4 +31,4 @@ A competitive line-following robot built on the ESP32 platform. This robot uses 
 
 ## Challenges & Learnings
 
-_( A key challenge was calibrating the sensor thresholds to work under different lighting conditions. I solved this by creating a simple calibration routine and finding an optimal `frontThreshold` value through testing.)_
+_ A key challenge was calibrating the sensor thresholds to work under different lighting conditions. I solved this by creating a simple calibration routine and finding an optimal `frontThreshold` value through testing._
